@@ -5,7 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://gorkamunoz.github.io',
                 'git_url': 'https://github.com/gorkamunoz/nbdev-doc-test',
                 'lib_path': 'nbdev_doc_test'},
-  'syms': { 'nbdev_doc_test\\core': { 'nbdev_doc_test\\core.foo': ( 'https://gorkamunoz.github.io/core.html#foo',
-                                                                    'https://github.com/gorkamunoz/nbdev-doc-test/blob/master/nbdev_doc_test\\core.py#L7')},
-            'nbdev_doc_test\\other': { 'nbdev_doc_test\\other.play_video': ( 'https://gorkamunoz.github.io/other.html#play_video',
-                                                                             'https://github.com/gorkamunoz/nbdev-doc-test/blob/master/nbdev_doc_test\\other.py#L13')}}}
+  'syms': { 'nbdev_doc_test.core': {'nbdev_doc_test.core.foo': ('core.html#foo', 'nbdev_doc_test/core.py')},
+            'nbdev_doc_test.other': {'nbdev_doc_test.other.play_video': ('other.html#play_video', 'nbdev_doc_test/other.py')}}}
