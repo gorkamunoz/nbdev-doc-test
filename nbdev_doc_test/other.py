@@ -4,9 +4,9 @@
 __all__ = ['play_video']
 
 # %% ..\01_other.ipynb 2
-import matplotlib.animation as animation
-import matplotlib.pyplot as plt
-from IPython.display import HTML
+#import matplotlib.animation as animation
+#import matplotlib.pyplot as plt
+#from IPython.display import HTML
 import numpy as np
 
 # %% ..\01_other.ipynb 4
