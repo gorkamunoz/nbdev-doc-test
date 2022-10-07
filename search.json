@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-doc-test",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-doc-test",
+    "section": "Install",
+    "text": "Install\npip install nbdev_doc_test"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-doc-test",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "other functions",
+    "section": "",
+    "text": "source\n\n\n\n play_video (video:int|float, figsize:tuple=(5, 5), fps:int=10)\n\n\n\n\n\nType\nDefault\nDetails\n\n\n\n\nvideo\nint | float\n\na video blablabla\n\n\nfigsize\ntuple\n(5, 5)\nthe size of the fig\n\n\nfps\nint\n10\nthe fps\n\n\nReturns\nint\n\na number\n\n\n\nAnd here a test\n\nx = np.arange(100)\nplt.plot(x, np.sin(x)**2)"
+  }
+]
