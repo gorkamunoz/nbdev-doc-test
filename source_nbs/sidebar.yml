@@ -1,0 +1,6 @@
+website:
+  sidebar:
+    contents:
+      - lib_nbs/index.ipynb
+      - lib_nbs/00_core.ipynb
+      - lib_nbs/01_other.ipynb
